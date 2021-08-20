@@ -6,7 +6,8 @@
 3)en la url de youtube de mas bajo le puedes ver como se instala el compilador y especialmente agregar la variable de entorno necesaria para compilar el archivo 
   snake.c y convertilo a snake.exe
   
-4)en el cmd, windows -> cmd.exe, el comando para compilar y crear el arhivo snake.exe es:  gcc snake.c -o snake3.exe,   snake.c debe ir fijo, 
+4)en el cmd, windows -> cmd.exe-> en el cmd te ubicas en el directorio donde te hayas decargado los archivo (con el comando: cd C:\Users\primo\snake), el comando 
+  para compilar y crear el arhivo snake.exe es:  gcc snake.c -o snake3.exe,   snake.c debe ir fijo, 
   el archivo snake3.exe si puede cambiar para generar el archivo ejecutable, por ejemplo snakeFinal.exe si quisieras, por ejemplo
 gcc snake.c -o snakeFinal.exe
 
