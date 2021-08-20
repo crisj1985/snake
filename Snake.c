@@ -161,7 +161,7 @@ void teclear(){
 //METODO QUE MUESTRA EN FORMA ALEATORIA LA COMIDA EN ALGUN LUGAR LA PANTALLA 
 void cocina_comida(){
 	if(x == xc && y == yc){
-		xc = (rand() % 73) + 4;
+		xc = (rand() % 43) + 4;
  		yc = (rand() % 18) + 5;
 		tamanioSnake++;
 		puntos+=100;
