@@ -1,5 +1,5 @@
 # snake
-1)el archivo snake.c es el escrito en el lenguaje C
+1)el archivo snake.c es el escrito en el lenguaje C \n
 2)los archivo snake.exe (hay algunos para hacer pruebas) son los que estan compilados y se puede ejecutar(doble clic) para jugar snake
 3)en la url de youtube de mas bajo le puedes ver como se instala el compilador y especialmente agregar la variable de entorno necesaria para compilar el archivo 
   snake.c y convertilo a snake.exe
